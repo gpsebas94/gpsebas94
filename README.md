@@ -2,7 +2,7 @@
 
 **Data Scientist |  M.Sc. in Data Engineering and Analytics | Python • R • SQL • Machine Learning • Data Visualization**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> (gpsebas94@gmail.com) • <img src="https://img.icons8.com/ios-filled/20/000000/phone.png"/> (+573118941282) • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](https://www.linkedin.com/gpsebas94)
+📧 gpsebas94@gmail.com • 📱 +57 3118941282 • 🔗 [LinkedIn](https://www.linkedin.com/in/gpsebas94/)
 
 ---
 
@@ -56,15 +56,21 @@
 ## 🧠 Technical Skills
 
 ### Programming
-- **Python**: scikit-learn, xgboost, pyspark, nltk, matplotlib  
-- **R**: caret, tidyverse, quanteda, ggplot, glm  
-- **SQL**: complex queries, stored procedures
+- **Python**: ⭐⭐⭐⭐☆ (scikit-learn, xgboost, pyspark, nltk, matplotlib)
+- **R**: ⭐⭐⭐☆ ☆ (caret, tidyverse, quanteda, ggplot, glm)
+- **SQL**: ⭐⭐⭐☆ ☆ (complex queries, stored procedures)
 
-### Machine Learning
-- Logistic and Linear Regression, XGBoost, Decision Trees, Clustering, PCA, Text Mining
+### Machine Learning 
+- Logistic and Linear Regression ⭐⭐⭐⭐☆
+- XGBoost ⭐⭐⭐⭐☆
+- Decision Trees ⭐⭐⭐⭐☆
+- Clustering ⭐⭐⭐☆ ☆
+- PCA ⭐⭐⭐☆ ☆
+- Text Mining ⭐⭐⭐☆ ☆
 
-### Data Visualization
-- Power BI, Tableau
+### Data Visualization 
+- Power BI ⭐⭐⭐☆ ☆
+- Tableau ⭐⭐⭐☆ ☆
 
 ---
 
