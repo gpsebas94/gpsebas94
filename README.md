@@ -34,7 +34,6 @@
 - Supported models targeting both individuals and companies.
 
 ### CX Data Mining – LATAM
-### Virgin Mobile Latin America
 *Virgin Mobile Latin America*  
 - Applied techniques for extraction, cleaning, processing, and visualization of qualitative and quantitative data related to user experience in Colombia, Mexico, and Chile.
 - Identified behavioral patterns to evaluate, predict, and create strategies to improve key company metrics.
@@ -46,7 +45,7 @@
 - Developed statistical models aimed at improving the effectiveness of business strategies.
 - Supported by data visualization and business intelligence tools.
 
-## Core Support Engineer CGC
+### Core Support Engineer CGC
 **Hit Communications**  
 *January 2020 – August 2020*  
 - Provided technical support to companies in the internet and telephony sectors.
