@@ -2,7 +2,7 @@
 
 **Data Scientist |  M.Sc. in Data Engineering and Analytics | Python • R • SQL • Machine Learning • Data Visualization**
 
-[Email](gpsebas94@gmail.com) • [Phone](+573118941282) • [@gpsebas94](https://twitter.com/gpsebas94)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> (gpsebas94@gmail.com) • <img src="https://img.icons8.com/ios-filled/20/000000/phone.png"/> (+573118941282) • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](https://www.linkedin.com/gpsebas94)
 
 ---
 
