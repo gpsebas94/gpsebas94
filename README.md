@@ -1,8 +1,9 @@
-# Sebastian Gonzalez
+# Sebastian Gonzalez  🇨🇴
 
-**Data Scientist |  M.Sc. in Data Engineering and Analytics | Python • R • SQL • Machine Learning • Data Visualization**
+**🧠 Data Scientist | 📊M.Sc. in Data Engineering and Analytics |💻B.Eng. in Automation Engineering**
+**Python • R • SQL • Machine Learning • Data Visualization**
 
-📧 gpsebas94@gmail.com • 📱 +57 3118941282 • 🔗 [LinkedIn](https://www.linkedin.com/in/gpsebas94/)
+📧 gpsebas94@gmail.com • 🔗 [LinkedIn](https://www.linkedin.com/in/gpsebas94/)
 
 ---
 
